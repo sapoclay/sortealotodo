@@ -3,7 +3,7 @@
 class Database {
     private $host = "localhost";
     private $username = "root";
-    private $password = "36159152";
+    private $password = "XXXXXX";
     private $dbname = "rifa";
     public $conn;
 
