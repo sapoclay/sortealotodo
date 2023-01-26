@@ -14,7 +14,7 @@ Una vez realizados todos estos pasos, basta con iniciar el servidor y lanzar el 
 
 ![sortealotodo](https://user-images.githubusercontent.com/6242827/214824103-122bbc68-b5a6-4453-8c83-31a15d2b46c1.png)
 
-Como se puede ver en la anterior captura, aquí aparecerán números hasta el 16. Si pulsamos sobre el botón Jugar que aparece en la parte inferior, empezará el sorteo. Aquí encontraremos una opción con la que "incluir o no" en el sorteo los números premiados en los sorteos anteriores. Además también nos mostrará cuantos tickets jugadores entran en el sorteo, los cuales se irán descontando a medida que se realicen sorteos. Cuando se seleccione el número premiado, aparecerá una ventana como la que se puede ver en la primera de las capturas que se muestran aquí.
+Como se puede ver en la anterior captura, aquí aparecerán números hasta el 16. Si pulsamos sobre el botón Jugar que aparece en la parte inferior, empezará el sorteo. Aquí encontraremos una opción con la que "incluir o no" en el sorteo los números premiados en los sorteos anteriores. Además también nos mostrará cuantos tickets jugadores entran en el sorteo, los cuales se irán descontando a medida que se realicen sorteos. Cuando se seleccione el número premiado, veremos una ventana como la que se puede ver en la primera de las capturas que se muestran aquí.
 
 Si quieres ver el listado completo de los números que entran en el sorteo, basta con pulsar sobre el enlace "Jugador@s" que encontraremos en el menú superior.
 
