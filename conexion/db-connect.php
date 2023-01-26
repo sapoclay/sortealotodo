@@ -1,10 +1,10 @@
 <?php
 
 class Database {
-    private $host = "localhost";
-    private $username = "root";
-    private $password = "XXXXXX";
-    private $dbname = "rifa";
+    private $host = "localhost"; // Host de la BD
+    private $username = "root"; // Usuario de la BD
+    private $password = "XXXXXX"; // Password del usuario
+    private $dbname = "rifa"; // Nombre de la base de datos
     public $conn;
 
     public function __construct() {
