@@ -2,7 +2,7 @@
 
 ![num-premiado](https://user-images.githubusercontent.com/6242827/214825485-c0c3d33a-312a-4bf8-856c-b42a94539713.png)
 
-Un pequeño programa para crear tu propio sistema con el que realizar sorteos entre diferentes números.
+Un pequeño programa para <b>crear tu propio sistema con el que realizar sorteos</b> entre diferentes números.
 
 ## Instalación
 
