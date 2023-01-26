@@ -28,4 +28,4 @@ Todos los premiados en los sorteos, van a aparecer en la sección "Premios", que
 
 ![premios](https://user-images.githubusercontent.com/6242827/214826760-941f7901-7150-4c0c-870f-6b21086e2c53.png)
 
-En el momento que queramos volver a empezar los sorteos, podemos pulsar sobre el botón "Eliminar todos los registros" que encontraremos en la parte inferior de esta página. Haciendo esto todos los números volverán a aparecen en la sección "Sorteo".
+En el momento que queramos volver a empezar los sorteos, podemos pulsar sobre el botón "Eliminar todos los registros" que encontraremos en la parte inferior de esta página. Haciendo esto todos los números volverán a aparecer en la sección "Sorteo".
